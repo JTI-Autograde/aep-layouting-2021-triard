@@ -25,7 +25,7 @@ function App() {
           <li>Makan</li>
         </ul> */}
 
-        {/* <button role="button" name="submit">Add Todo</button> */}
+        <button role="button" name="submit">Add Todo</button>
 
 
       </header>
